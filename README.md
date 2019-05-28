@@ -1,6 +1,8 @@
 
 # My JS Kinect Racer
 
-Ce projet est un fork de https://github.com/jakesgordon/javascript-racer.
+A fork of original project https://github.com/jakesgordon/javascript-racer.
 
-Le but ici est de remplacer le clavier par la webcam pour contrôler la voiture à l'aide du Machine Learning.
+The goal here is to replace the keyboard by the webcam to control the car using Machine Learning.
+
+Play the game: https://hectorbst.github.io/javascript-racer/
