@@ -1,0 +1,53 @@
+
+#ippon {
+	margin-top: 3rem;
+	border-top-style: solid;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#ippon button, #ippon select {
+	width: 100%;
+}
+
+#ippon .row {
+	padding-top: 2rem;
+}
+
+#webcam {
+	background-color: black;
+	margin: auto;
+    transform: scaleX(-1);
+}
+
+#webcam-box {
+	margin: auto;
+	width: 224px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+#ippon > div:last-child {
+	margin-bottom: 1rem;
+}
+
+body {
+	text-align: center;
+	padding-top: 1rem;
+}
+
+#racer {
+	margin: auto;
+    text-align: left;
+}
+
+#mute {
+	margin-left: unset;
+}
+
+#controls {
+	width: unset;
+	display: none;
+}
