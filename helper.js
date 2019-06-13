@@ -82,10 +82,7 @@ $(document).ready(() => {
 		Game.start();
 		Car.goFaster();
 		while (true) {
-			await UI.updateCarDirection();
-			await tf.nextFrame();
-			await tf.nextFrame();
-			await tf.nextFrame();
+			UI.updateCarDirection();
 			await tf.nextFrame();
 		}
 	});
